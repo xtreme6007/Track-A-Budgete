@@ -11,6 +11,7 @@ const FILES_TO_CACHE = [
     "/service-worker.js",
     
     
+    
   ];
   
   const CACHE_NAME = "static-cache-v2";
